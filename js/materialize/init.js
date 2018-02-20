@@ -1,0 +1,1 @@
+"use strict";!function(e){e(function(){e(".modal").modal(),e(".button-collapse").sideNav(),e(".dropdown-button").dropdown(),e(".datepicker").pickadate({selectMonths:!0,selectYears:15,today:"Today",clear:"Clear",close:"Ok",closeOnSelect:!1})})}(jQuery);
